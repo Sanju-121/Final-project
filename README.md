@@ -34,12 +34,15 @@ Evaluate the trained models using appropriate evaluation metrics such as mean ab
 Develop a user-friendly interface that allows users, such as farmers or agricultural experts, to input relevant parameters and obtain accurate crop yield predictions. The interface should provide an intuitive and visually appealing experience.
 
 **Results and Discussion:**
+
 Present the results obtained from the trained models, highlighting the accuracy and efficiency of each algorithm. Discuss the strengths and weaknesses of the selected model and provide insights into potential areas for improvement.
 
 **Conclusion:**
+
 Summarize the key findings of the project and emphasize the importance of crop prediction in optimizing agricultural practices. Highlight the potential benefits of implementing the developed crop prediction system and suggest future enhancements or extensions.
 
 **References:**
+
 Provide a list of references used throughout the project, including research papers, online resources, and relevant literature.
 
 **Note:** This file provides a general structure and outline for a final year project on crop prediction using supervised machine learning techniques. Feel free to adapt and modify the contents according to your specific project requirements and guidelines.
